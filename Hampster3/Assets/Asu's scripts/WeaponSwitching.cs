@@ -17,7 +17,7 @@ public class WeaponSwitching : MonoBehaviour
     {
         int previousSelectedWeapon = selectedWeapon;
 
-        if (Input.GetAxis("Mouse ScrollWheel") > 0f)
+        if (Input.GetAxisRaw("Mouse ScrollWheel") > 0f)
         {
             if (selectedWeapon >= transform.childCount - 1)
             {
@@ -26,7 +26,7 @@ public class WeaponSwitching : MonoBehaviour
             }
            
         }
-        if (Input.GetAxis("Mouse ScrollWheel") < 0f)
+        if (Input.GetAxisRaw("Mouse ScrollWheel") < 0f)
         {
             if (selectedWeapon <= 0)
             {
