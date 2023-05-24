@@ -3,12 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - CinemachineTarget
-<<<<<<< Updated upstream
-  - Enemy
-=======
->>>>>>> Stashed changes
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -16,10 +11,6 @@ TagManager:
   - 
   - Water
   - UI
-  - Weapon
-  - whatIsEnemy
-  - whatIsPlayer
-  - whatIsGround
   - 
   - 
   - 
@@ -39,9 +30,13 @@ TagManager:
   - 
   - 
   - 
-  - whatIsLegde
-  - whatIsGround
-  - whatIsWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   m_SortingLayers:
   - name: Default
     uniqueID: 0
