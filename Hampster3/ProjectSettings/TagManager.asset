@@ -3,13 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-<<<<<<< HEAD
   tags: []
-=======
-  tags:
-  - CinemachineTarget
-  - Enemy
->>>>>>> parent of 6139161 (Fix merge conflict 2)
   layers:
   - Default
   - TransparentFX
@@ -39,13 +33,10 @@ TagManager:
   - 
   - 
   - 
-<<<<<<< HEAD
   - 
   - 
   - 
   - 
-=======
->>>>>>> parent of 6139161 (Fix merge conflict 2)
   m_SortingLayers:
   - name: Default
     uniqueID: 0
