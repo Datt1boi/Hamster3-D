@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags: []
+=======
+  tags:
+  - CinemachineTarget
+  - Enemy
+>>>>>>> d1ea10d22256bf7c8395935ff4b24ad8b7dd5806
   layers:
   - Default
   - TransparentFX
@@ -11,6 +17,10 @@ TagManager:
   - 
   - Water
   - UI
+  - Weapon
+  - whatIsEnemy
+  - whatIsPlayer
+  - whatIsGround
   - 
   - 
   - 
@@ -33,10 +43,13 @@ TagManager:
   - 
   - 
   - 
+<<<<<<< HEAD
   - 
   - 
   - 
   - 
+=======
+>>>>>>> d1ea10d22256bf7c8395935ff4b24ad8b7dd5806
   m_SortingLayers:
   - name: Default
     uniqueID: 0
