@@ -342,6 +342,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5393215578589016642, guid: c5efc39a8aaf6e64ea40e9ad573e9b47,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 8616685848737228371, guid: c5efc39a8aaf6e64ea40e9ad573e9b47,
         type: 3}
       propertyPath: SprintSpeed
@@ -724,7 +729,7 @@ MonoBehaviour:
   attackPoint: {fileID: 1455696736}
   whatIsEnemy:
     serializedVersion: 2
-    m_Bits: 128
+    m_Bits: 0
   muzzleFlash: {fileID: 1743301284569550, guid: ad2ab49d0a2a17148bd51c93d977bdbc,
     type: 3}
   camShakeMagnitude: 0.1
@@ -1695,7 +1700,7 @@ MonoBehaviour:
   attackPoint: {fileID: 1783850834}
   whatIsEnemy:
     serializedVersion: 2
-    m_Bits: 128
+    m_Bits: 0
   muzzleFlash: {fileID: 1743301284569550, guid: ad2ab49d0a2a17148bd51c93d977bdbc,
     type: 3}
   camShakeMagnitude: 0
@@ -2329,7 +2334,7 @@ MonoBehaviour:
   attackPoint: {fileID: 211759301}
   whatIsEnemy:
     serializedVersion: 2
-    m_Bits: 128
+    m_Bits: 0
   muzzleFlash: {fileID: 1743301284569550, guid: ad2ab49d0a2a17148bd51c93d977bdbc,
     type: 3}
   camShakeMagnitude: 0
